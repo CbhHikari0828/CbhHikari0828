@@ -89,6 +89,20 @@ scalable, and user-centered software.
   </tr>
 </table>
 
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CbhHikari0828/CbhHikari0828/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CbhHikari0828/CbhHikari0828/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/CbhHikari0828/CbhHikari0828/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
 ## Current Focus
 
 ```ts
