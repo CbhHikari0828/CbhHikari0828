@@ -89,23 +89,6 @@ scalable, and user-centered software.
   </tr>
 </table>
 
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CbhHikari0828&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CbhHikari0828&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=CbhHikari0828&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
 ## Current Focus
 
 ```ts
