@@ -22,7 +22,7 @@ scalable, and user-centered software.
 
 - Currently building **Arbor**, an AI knowledge management platform.
 - Interested in AI applications, full-stack systems, knowledge tools, and developer productivity.
-- Main stack: TypeScript, Vue, React, Node.js, Python, Java, and PostgreSQL.
+- Main stack: TypeScript, Vue, React, Node.js, Python, Java, Rust, and PostgreSQL.
 - I care about clean UI, clear architecture, useful automation, and products that solve real problems.
 
 ---
@@ -37,7 +37,7 @@ scalable, and user-centered software.
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring" alt="backend skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring,rust" alt="backend skills" />
 
 ### Database and Tools
 
@@ -110,7 +110,7 @@ const nextAlex = {
   role: "Full-Stack Developer",
   focus: ["AI Applications", "Knowledge Systems", "Web Development"],
   frontend: ["Vue", "React", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Python", "Java", "Spring Boot"],
+  backend: ["Node.js", "Python", "Java", "Spring Boot", "Rust"],
   database: ["PostgreSQL", "MySQL"],
   mindset: ["Build useful things", "Keep learning", "Think in systems"],
 };
